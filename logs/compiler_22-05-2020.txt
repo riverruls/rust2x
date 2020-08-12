@@ -1,0 +1,39 @@
+[SERVER v1.0.20] Started as service
+[SERVER v1.0.20] Running as service
+[SERVER v1.0.20] Got Message: Ready
+[SERVER v1.0.20] Got Message: Compile
+[SERVER v1.0.20] Console: CraftingController.cs(559,17): warning CS0219: The variable `name' is assigned but its value is never used
+ImageLibrary.cs(651,59): warning CS0219: The variable `loadOrder' is assigned but its value is never used
+ImageLibrary.cs(754,75): warning CS0219: The variable `loadOrder' is assigned but its value is never used
+NTeleportation.cs(2781,33): warning CS0219: The variable `w' is assigned but its value is never used
+PermissionsManager.cs(242,17): warning CS0219: The variable `pageNo' is assigned but its value is never used
+PermissionsManager.cs(302,24): warning CS0219: The variable `granted' is assigned but its value is never used
+PermissionsManager.cs(356,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+PermissionsManager.cs(387,20): warning CS0219: The variable `guiString' is assigned but its value is never used
+SkinBox.cs(4,255+): warning CS0219: The variable `matchedAny' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `counter' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `vipcounter' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `dp' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `old' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `noInput' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `noInput' is assigned but its value is never used
+StacksExtended.cs(4,255+): warning CS0219: The variable `noInput' is assigned but its value is never used
+AdminRadar.cs(46,22): warning CS0414: The private field `Oxide.Plugins.AdminRadar.init' is assigned but its value is never used
+AdminRadar.cs(34,42): warning CS0649: Field `Oxide.Plugins.AdminRadar.DiscordMessages' is never assigned to, and will always have its default value `null'
+BlueprintShare.cs(23,49): warning CS0649: Field `Oxide.Plugins.BlueprintShare.ClansReborn' is never assigned to, and will always have its default value `null'
+Clans.cs(97,24): warning CS0414: The private field `Oxide.Plugins.Clans.pluginPrefixREBORNColor' is assigned but its value is never used
+Clans.cs(128,22): warning CS0414: The private field `Oxide.Plugins.Clans.useRankColorsPanel' is assigned but its value is never used
+ImageLibrary.cs(45,26): warning CS0414: The private field `Oxide.Plugins.ImageLibrary.itemShortNames' is assigned but its value is never used
+ImageLibrary.cs(983,26): warning CS0414: The private field `Oxide.Plugins.ImageLibrary.ImageAssets.isLoading' is assigned but its value is never used
+Kits.cs(25,41): warning CS0169: The private field `Oxide.Plugins.Kits.EventManager' is never used
+LoadingMessages.cs(76,27): warning CS0649: Field `Oxide.Plugins.LoadingMessages.MsgConfig.QueuePosition' is never assigned to, and will always have its default value `null'
+NTeleportation.cs(70,35): warning CS0169: The private field `Oxide.Plugins.NTeleportation.dataConvert' is never used
+NTeleportation.cs(94,30): warning CS0414: The private field `Oxide.Plugins.NTeleportation.triggerLayer' is assigned but its value is never used
+SkinBox.cs(4,255+): warning CS0649: Field `Oxide.Plugins.SkinBox.ServerRewards' is never assigned to, and will always have its default value `null'
+SkinBox.cs(4,255+): warning CS0649: Field `Oxide.Plugins.SkinBox.Economics' is never assigned to, and will always have its default value `null'
+StacksExtended.cs(4,255+): warning CS0414: The private field `Oxide.Plugins.StacksExtended.Initialized' is assigned but its value is never used
+
+[SERVER v1.0.20] Got Message: Exit
+[SERVER v1.0.20] Exit received.
+[SERVER v1.0.20] Connection closed.
+[SERVER v1.0.20] Shutdown

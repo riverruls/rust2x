@@ -1,0 +1,1213 @@
+15:46 [Info] Loading Oxide Core v2.0.3982...
+15:46 [Info] Loading extensions...
+15:46 [Info] Loaded extension CSharp v2.0.4024 by Oxide Team and Contributors
+15:46 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+15:46 [Info] Loaded extension Rust v2.0.4582 by Oxide Team and Contributors
+15:46 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+15:46 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+15:46 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:46 [Info] Local compiler MD5: 0
+15:46 [Info] Compiler MD5 hash did not match, downloading latest
+15:46 [Info] Downloading Compiler.x86_x64 for .cs (C#) plugin compilation
+15:46 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.x86_x64, attempting download again
+15:46 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:46 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+15:46 [Info] Using Covalence provider for game 'Rust'
+15:46 [Info] Loading plugins...
+15:46 [Info] Loaded plugin Rust v2.0.4582 by Oxide Team and Contributors
+15:46 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+15:49 [Info] IP address from Steam query: 0.0.0.0
+16:24 [Info] NoGiveNotices was compiled successfully in 1993ms
+16:24 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+16:24 [Info] GatherManager was compiled successfully in 488ms
+16:24 [Warning] [Gather Manager] New configuration file created.
+16:24 [Warning] [Gather Manager] Configuration file updated.
+16:24 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.74' took 118ms
+16:24 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+16:24 [Info] BlueprintShare was compiled successfully in 289ms
+16:24 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+16:24 [Warning] [DEBUG] Load requested for plugin which is already loading: SharedDoors
+16:24 [Info] SharedDoors was compiled successfully in 241ms
+16:24 [Info] [SharedDoors] Rust Clans has not been found.
+16:24 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+16:25 [Info] WipeBlock was compiled successfully in 382ms
+16:25 [Error] [Wipe Block] Configuration file is corrupt(or not exists), creating new one!
+16:25 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+16:25 [Info] MinicopterSeating was compiled successfully in 269ms
+16:25 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+16:25 [Info] InfoPanel was compiled successfully in 404ms
+16:25 [Warning] [InfoPanel] Default configuration file created.
+16:25 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 449ms
+16:25 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+16:27 [Info] Permission 'recyclerspeed.use' doesn't exist
+16:27 [Info] RecyclerSpeed was compiled successfully in 2167ms
+16:27 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:28 [Info] FurnaceSplitter was compiled successfully in 556ms
+16:28 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+16:28 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+16:28 [Info] QuickSmelt was compiled successfully in 656ms
+16:28 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 126ms
+16:28 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:28 [Error] Could not load plugin 'furnacesplitter.use' (no plugin found with that file name)
+16:28 [Info] Group 'default' granted permission 'furnacesplitter.use'
+16:28 [Info] Group 'default' granted permission 'quicksmelt.use'
+16:34 [Warning] 'SharedDoors v1.0.1' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+16:39 [Info] BetterSay and TimeOfDay were compiled successfully in 2216ms
+16:39 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+16:39 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+16:42 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+16:42 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+16:42 [Warning] Calling 'Unload' on 'GatherManager v2.2.74' took 116ms
+16:42 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+16:42 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.74' took 119ms
+16:42 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+16:42 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+16:42 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+16:42 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+16:42 [Info] [SharedDoors] Rust Clans has not been found.
+16:42 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+16:42 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+16:42 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+16:42 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+16:42 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+16:42 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+16:42 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 483ms
+16:42 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+16:42 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+16:42 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+16:42 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+16:42 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+16:42 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 115ms
+16:42 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:42 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 122ms
+16:42 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+16:42 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+16:42 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+16:42 [Info] BetterSay was compiled successfully in 2251ms
+16:42 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+16:42 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+16:42 [Error] Plugin filename MinicopterSeating-0.cs must match the main class MinicopterSeating (should be MinicopterSeating.cs)
+16:43 [Info] SkinBox was compiled successfully in 2490ms
+16:43 [Warning] [SkinBox] SkinBox config needs `steamApiKey` from `https://steamcommunity.com/dev/apikey` >> Plugin unloaded
+16:43 [Info] Unloaded plugin SkinBox v1.16.3 by FuJiCuRa
+16:43 [Warning] Calling 'OnServerInitialized' on 'SkinBox v1.16.3' took 122ms
+16:43 [Info] Loaded plugin SkinBox v1.16.3 by FuJiCuRa
+16:44 [Info] Skins was compiled successfully in 270ms
+16:44 [Info] Loaded plugin Skins v2.1.0 by Iv Misticos
+16:47 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+16:47 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+16:47 [Warning] [DEBUG] Load requested for plugin which is already loading: ImageLibrary
+16:47 [Info] ImageLibrary was compiled successfully in 2559ms
+16:47 [Warning] [Image Library] Retrieving item skin lists...
+16:47 [Warning] Calling 'OnServerInitialized' on 'ImageLibrary v2.0.54' took 662ms [GARBAGE COLLECT]
+16:47 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+16:47 [Info] Kits was compiled successfully in 2340ms
+16:47 [Info] CopyPaste was compiled successfully in 2167ms
+16:47 [Info] Loaded plugin Kits v3.2.93 by Reneb
+16:47 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+16:47 [Warning] [Image Library] Processing approved skins; Page 1/22
+16:47 [Warning] [Image Library] Processing approved skins; Page 2/22
+16:47 [Warning] [Image Library] Processing approved skins; Page 3/22
+16:47 [Warning] [Image Library] Processing approved skins; Page 4/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 5/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 6/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 7/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 8/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 9/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 10/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 11/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 12/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 13/22
+16:48 [Warning] [Image Library] Processing approved skins; Page 14/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 15/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 16/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 17/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 18/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 19/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 20/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 21/22
+16:49 [Warning] [Image Library] Processing approved skins; Page 22/22
+16:49 [Info] [Image Library] Approved skins loaded
+17:02 [Info] MagicLoot was compiled successfully in 2085ms
+17:02 [Info] [MagicLoot] No configuration file found, generating...
+17:02 [Info] [MagicLoot] Added 0 components to configuration file.
+17:02 [Info] [MagicLoot] Generating item list with limits...
+17:02 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+17:02 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+17:02 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+17:02 [Info] [MagicLoot] Repopulated 2224 loot containers.
+17:02 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 602ms
+17:02 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:12 [Info] Permission 'skin.use' doesn't exist
+17:12 [Info] Permission 'skin.use' doesn't exist
+17:14 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+17:14 [Info] [SkinBox] Querying Steam for manually added workshop skins
+17:14 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:14 [Warning] Calling 'Unload' on 'GatherManager v2.2.74' took 104ms
+17:14 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+17:14 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+17:14 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+17:14 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+17:14 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+17:14 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+17:14 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+17:14 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+17:14 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 103ms
+17:14 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+17:14 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+17:14 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:14 [Info] Unloaded plugin Skins v2.1.0 by Iv Misticos
+17:14 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+17:14 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+17:14 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+17:14 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:14 [Info] Unloaded plugin SkinBox v1.16.3 by FuJiCuRa
+17:14 [Info] Loading Oxide Core v2.0.3982...
+17:14 [Info] Loading extensions...
+17:14 [Info] Loaded extension CSharp v2.0.4024 by Oxide Team and Contributors
+17:14 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+17:14 [Info] Loaded extension Rust v2.0.4582 by Oxide Team and Contributors
+17:14 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+17:14 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:14 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:14 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:14 [Info] Using Covalence provider for game 'Rust'
+17:14 [Info] Loading plugins...
+17:14 [Info] Loaded plugin Rust v2.0.4582 by Oxide Team and Contributors
+17:14 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:14 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:14 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:14 [Info] BetterSay, BlueprintShare, CopyPaste, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, MagicLoot, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SkinBox, Skins, TimeOfDay and WipeBlock were compiled successfully in 0ms
+17:14 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+17:14 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+17:14 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+17:14 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+17:14 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+17:14 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+17:14 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+17:14 [Info] Loaded plugin Kits v3.2.93 by Reneb
+17:14 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:14 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+17:14 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:14 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+17:14 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+17:14 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+17:14 [Info] Loaded plugin SkinBox v1.16.3 by FuJiCuRa
+17:14 [Info] Loaded plugin Skins v2.1.0 by Iv Misticos
+17:14 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:14 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+17:17 [Info] IP address from Steam query: 0.0.0.0
+17:17 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 334ms
+17:17 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+17:17 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+17:17 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+17:17 [Info] [MagicLoot] Repopulated 226 loot containers.
+17:17 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 236ms
+17:17 [Info] [SharedDoors] Rust Clans has not been found.
+17:17 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+17:17 [Info] [SkinBox] Querying Steam for manually added workshop skins
+17:17 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+17:17 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+17:17 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+17:17 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+17:17 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+17:17 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+17:17 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+17:17 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+17:17 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:17 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+17:17 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:17 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+17:17 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+17:17 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+17:17 [Info] Unloaded plugin SkinBox v1.16.3 by FuJiCuRa
+17:17 [Info] Unloaded plugin Skins v2.1.0 by Iv Misticos
+17:17 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:17 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+17:17 [Info] Loading Oxide Core v2.0.3982...
+17:17 [Info] Loading extensions...
+17:17 [Info] Loaded extension CSharp v2.0.4024 by Oxide Team and Contributors
+17:17 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+17:17 [Info] Loaded extension Rust v2.0.4582 by Oxide Team and Contributors
+17:17 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+17:17 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:17 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:17 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:17 [Info] Using Covalence provider for game 'Rust'
+17:17 [Info] Loading plugins...
+17:17 [Info] Loaded plugin Rust v2.0.4582 by Oxide Team and Contributors
+17:17 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:17 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:17 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:17 [Info] BetterSay, BlueprintShare, CopyPaste, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, MagicLoot, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SkinBox, Skins, TimeOfDay and WipeBlock were compiled successfully in 0ms
+17:17 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+17:17 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+17:17 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+17:17 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+17:17 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+17:17 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+17:17 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+17:17 [Info] Loaded plugin Kits v3.2.93 by Reneb
+17:17 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:17 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+17:17 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:17 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+17:17 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+17:17 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+17:17 [Info] Loaded plugin SkinBox v1.16.3 by FuJiCuRa
+17:17 [Info] Loaded plugin Skins v2.1.0 by Iv Misticos
+17:17 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:17 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+17:20 [Info] Unloaded plugin SkinBox v1.16.3 by FuJiCuRa
+17:20 [Info] IP address from Steam query: 0.0.0.0
+17:20 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 314ms
+17:20 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+17:20 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+17:20 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+17:20 [Info] [MagicLoot] Repopulated 226 loot containers.
+17:20 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 211ms
+17:20 [Info] [SharedDoors] Rust Clans has not been found.
+17:23 [Info] SkinBox was compiled successfully in 2127ms
+17:23 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+17:23 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+17:23 [Info] Unloaded plugin Skins v2.1.0 by Iv Misticos
+17:23 [Info] [SkinBox] Loaded 126 inbuilt skins
+17:23 [Info] [SkinBox] Plugin has finished importing all skins
+17:24 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+17:24 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+17:24 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+17:24 [Info] [SkinBox] Loaded 126 inbuilt skins
+17:24 [Info] [SkinBox] Plugin has finished importing all skins
+17:34 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+17:34 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+17:34 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+17:34 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+17:34 [Warning] Calling 'Unload' on 'GatherManager v2.2.74' took 106ms
+17:34 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+17:34 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+17:34 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+17:34 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+17:34 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:34 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+17:34 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:34 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 111ms
+17:34 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+17:34 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+17:34 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+17:34 [Warning] Calling 'Unload' on 'SkinBox v1.14.0' took 116ms
+17:34 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+17:34 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:34 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+17:58 [Info] Loading Oxide Core v2.0.3982...
+17:58 [Info] Loading extensions...
+17:58 [Info] Loaded extension CSharp v2.0.4024 by Oxide Team and Contributors
+17:58 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+17:58 [Info] Loaded extension Rust v2.0.4582 by Oxide Team and Contributors
+17:58 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+17:58 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+17:58 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:58 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+17:58 [Info] Using Covalence provider for game 'Rust'
+17:58 [Info] Loading plugins...
+17:58 [Info] Loaded plugin Rust v2.0.4582 by Oxide Team and Contributors
+17:58 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+17:58 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+17:58 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+17:58 [Info] BetterSay, BlueprintShare, CopyPaste, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, MagicLoot, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SkinBox, TimeOfDay and WipeBlock were compiled successfully in 0ms
+17:58 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+17:58 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+17:58 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+17:58 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+17:58 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+17:58 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+17:58 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+17:58 [Info] Loaded plugin Kits v3.2.93 by Reneb
+17:58 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+17:58 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+17:58 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:58 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+17:58 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+17:58 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+17:58 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+17:58 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+17:58 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+18:04 [Info] IP address from Steam query: 0.0.0.0
+18:04 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.74' took 103ms
+18:04 [Warning] [Image Library] The CommunityEntity instance ID has changed! Due to the way CUI works in Rust all previously stored images must be removed and re-stored using the new ID as reference so clients can find the images. These images will be added to a new load order. Interupting this process will result in being required to re-download these images from the web
+18:04 [Warning] [Image Library] -2 images queued for restoration, 2 images failed
+18:04 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 401ms
+18:04 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+18:04 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+18:04 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+18:04 [Info] [MagicLoot] Repopulated 656 loot containers.
+18:04 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 324ms
+18:04 [Warning] Calling 'OnServerInitialized' on 'QuickSmelt v5.1.3' took 103ms
+18:04 [Info] [SharedDoors] Rust Clans has not been found.
+18:04 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+18:04 [Info] [SkinBox] Loaded 126 inbuilt skins
+18:04 [Info] [Image Library] Starting order Image restoration from previous database
+18:04 [Info] [SkinBox] Plugin has finished importing all skins
+18:07 [Info] Permission 'skin.use' doesn't exist
+18:07 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+18:07 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+18:07 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+18:07 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+18:07 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+18:07 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+18:07 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+18:07 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+18:07 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+18:07 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+18:07 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+18:07 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 104ms
+18:07 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+18:07 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+18:07 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+18:07 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+18:07 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:07 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+18:08 [Info] Loading Oxide Core v2.0.3984...
+18:08 [Info] Loading extensions...
+18:08 [Info] Loaded extension CSharp v2.0.4027 by Oxide Team and Contributors
+18:08 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+18:08 [Info] Loaded extension Rust v2.0.4589 by Oxide Team and Contributors
+18:08 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+18:08 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+18:08 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:08 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+18:08 [Info] Using Covalence provider for game 'Rust'
+18:08 [Info] Loading plugins...
+18:08 [Info] Loaded plugin Rust v2.0.4589 by Oxide Team and Contributors
+18:08 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+18:08 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:08 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:08 [Info] BetterSay, BlueprintShare, CopyPaste, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, MagicLoot, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SkinBox, TimeOfDay and WipeBlock were compiled successfully in 0ms
+18:08 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+18:08 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+18:08 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+18:08 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+18:08 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+18:08 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+18:08 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+18:08 [Info] Loaded plugin Kits v3.2.93 by Reneb
+18:08 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+18:08 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+18:08 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:08 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+18:08 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+18:08 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+18:08 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+18:08 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:08 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+18:13 [Info] IP address from Steam query: 0.0.0.0
+18:13 [Warning] The server is currently listed under Community. Please be aware that Facepunch only allows admin tools (that do not affect gameplay) under the Community section
+18:13 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 336ms
+18:13 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+18:13 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+18:13 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+18:13 [Info] [MagicLoot] Repopulated 400 loot containers.
+18:13 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 260ms
+18:13 [Info] [SharedDoors] Rust Clans has not been found.
+18:13 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+18:13 [Info] [SkinBox] Loaded 126 inbuilt skins
+18:13 [Info] [SkinBox] Plugin has finished importing all skins
+18:17 [Warning] 'Kits v3.2.93' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+18:38 [Info] TimeOfDay was compiled successfully in 2130ms
+18:38 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:38 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:41 [Info] StacksExtended was compiled successfully in 2211ms
+18:41 [Info] [StacksExtended] Created stacksize file with '502' items
+18:41 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 492ms
+18:41 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+18:41 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:41 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+18:41 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+18:41 [Info] [StacksExtended] No stacksize changed
+18:41 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 376ms
+18:41 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+18:41 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+18:41 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+18:41 [Info] BetterSay, BlueprintShare, CopyPaste, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, MagicLoot, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SkinBox and WipeBlock were compiled successfully in 672ms
+18:41 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+18:41 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+18:41 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+18:41 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+18:41 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+18:41 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+18:41 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+18:41 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+18:41 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+18:41 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+18:41 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+18:41 [Warning] Calling 'Unload' on 'QuickSmelt v5.1.3' took 101ms
+18:41 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+18:41 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+18:41 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+18:41 [Warning] Calling 'Unload' on 'SkinBox v1.14.0' took 103ms
+18:41 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+18:41 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+18:41 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+18:41 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+18:41 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+18:41 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+18:41 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+18:41 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+18:41 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 413ms
+18:41 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+18:41 [Info] Loaded plugin Kits v3.2.93 by Reneb
+18:41 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+18:41 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+18:41 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+18:41 [Info] [MagicLoot] Repopulated 1532 loot containers.
+18:41 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 260ms [GARBAGE COLLECT]
+18:41 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+18:41 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+18:41 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+18:41 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+18:41 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+18:41 [Info] [SharedDoors] Rust Clans has not been found.
+18:41 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+18:41 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+18:41 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+18:41 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+18:41 [Info] [SkinBox] Loaded 126 inbuilt skins
+18:41 [Info] [SkinBox] Plugin has finished importing all skins
+18:41 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+18:42 [Info] StackSizeController was compiled successfully in 293ms
+18:42 [Info] [Stack Size Controller] Generating a new config file...
+18:42 [Info] [Stack Size Controller] Added item category: 'Attire' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Misc' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Construction' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Component' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Items' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Traps' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Electrical' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Fun' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Food' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Resources' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Medical' to the config.
+18:42 [Info] [Stack Size Controller] Added item category: 'Tool' to the config.
+18:42 [Info] Loaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:42 [Error] Plugin filename StackSizeController-0.cs must match the main class StackSizeController (should be StackSizeController.cs)
+18:42 [Info] Unloaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:42 [Info] Loaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:43 [Info] [Better Say] Ares-2x Yetkili: sadasf
+18:44 [Info] [Better Say] Ares-2x Yetkili: sdgsdgsdg
+18:44 [Info] [Better Say] Ares-2x Yetkili: test
+18:45 [Info] Unloaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:45 [Info] Loaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:46 [Info] Unloaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:46 [Info] Loaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:46 [Info] [Better Say] Ares-2x Yetkili: stack boyutu düzeldimi ?
+18:47 [Info] Unloaded plugin Stack Size Controller v2.0.3 by Canopy Sheep
+18:47 [Info] [StacksExtended] Created stacksize file with '502' items
+18:47 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 388ms
+18:47 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+18:47 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+18:47 [Info] [StacksExtended] No stacksize changed
+18:47 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 395ms
+18:47 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+18:48 [Info] StacksExtended was compiled successfully in 2228ms
+18:48 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+18:48 [Info] [StacksExtended] No stacksize changed
+18:48 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 402ms
+18:48 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+19:10 [Error] Could not load plugin 'StackSizeController' (no plugin found with that file name)
+19:12 [Error] Could not load plugin '' (no plugin found with that file name)
+19:13 [Error] Could not load plugin 'StackExtended' (no plugin found with that file name)
+19:14 [Info] StacksExtended was compiled successfully in 2165ms
+19:14 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+19:14 [Info] [StacksExtended] Changed '131' stacks with new values
+19:14 [Info] [StacksExtended] Updated stacksize file with new items
+19:14 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 393ms
+19:14 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+19:16 [Info] LoadingMessages was compiled successfully in 2235ms
+19:16 [Info] Loaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+19:17 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+19:17 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+19:17 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+19:17 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+19:17 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+19:17 [Info] [StacksExtended] No stacksize changed
+19:17 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 402ms
+19:17 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+19:17 [Info] Unloaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+19:17 [Info] Loaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+19:17 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:17 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:17 [Info] WipeBlock, SkinBox, SharedDoors, RecyclerSpeed, QuickSmelt, NoGiveNotices, MinicopterSeating, MagicLoot, Kits, InfoPanel, ImageLibrary, GatherManager, FurnaceSplitter, CopyPaste and BlueprintShare were compiled successfully in 2558ms
+19:17 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+19:17 [Warning] Calling 'Unload' on 'SkinBox v1.14.0' took 101ms
+19:17 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+19:17 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+19:17 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+19:17 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+19:17 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+19:17 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+19:17 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+19:17 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+19:17 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+19:17 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+19:17 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+19:17 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+19:17 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+19:17 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+19:17 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+19:17 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+19:17 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+19:17 [Info] [SharedDoors] Rust Clans has not been found.
+19:17 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+19:17 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+19:17 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+19:17 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+19:17 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+19:17 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+19:17 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+19:17 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+19:17 [Info] [MagicLoot] Repopulated 1610 loot containers.
+19:17 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 228ms
+19:17 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+19:17 [Info] Loaded plugin Kits v3.2.93 by Reneb
+19:17 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 414ms
+19:17 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+19:17 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+19:17 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+19:17 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+19:17 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+19:17 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+19:17 [Info] [SkinBox] Loaded 126 inbuilt skins
+19:17 [Info] [SkinBox] Plugin has finished importing all skins
+19:19 [Info] Group 'default' already has permission 'furnacesplitter.use'
+19:19 [Info] Group 'default' already has permission 'quicksmelt.use'
+19:21 [Info] SkinBox was compiled successfully in 2161ms
+19:21 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+19:21 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+19:21 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+19:21 [Info] [SkinBox] Loaded 126 inbuilt skins
+19:21 [Info] [SkinBox] Plugin has finished importing all skins
+19:23 [Warning] 'StacksExtended v1.3.6' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+19:31 [Info] Group 'default' granted permission 'skinbox.use'
+19:34 [Info] Clans was compiled successfully in 2546ms
+19:34 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+19:34 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+19:34 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+19:34 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+19:34 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+19:34 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+19:34 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+19:34 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+19:34 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+19:34 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+19:34 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+19:34 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+19:34 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+19:34 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+19:34 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+19:34 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+19:34 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+19:34 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+19:34 [Info] Unloaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+19:34 [Info] Unloaded plugin Clans v2.14.13 by FuJiCuRa
+19:34 [Info] Loading Oxide Core v2.0.3984...
+19:34 [Info] Loading extensions...
+19:34 [Info] Loaded extension CSharp v2.0.4027 by Oxide Team and Contributors
+19:34 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+19:34 [Info] Loaded extension Rust v2.0.4589 by Oxide Team and Contributors
+19:34 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+19:34 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+19:34 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:34 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+19:34 [Info] Using Covalence provider for game 'Rust'
+19:34 [Info] Loading plugins...
+19:34 [Info] Loaded plugin Rust v2.0.4589 by Oxide Team and Contributors
+19:34 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+19:34 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+19:34 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+19:34 [Info] BetterSay, BlueprintShare, Clans, CopyPaste, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, LoadingMessages, MagicLoot, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SkinBox, StacksExtended, TimeOfDay and WipeBlock were compiled successfully in 0ms
+19:34 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+19:34 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+19:34 [Info] Loaded plugin Clans v2.14.13 by FuJiCuRa
+19:34 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+19:34 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+19:34 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+19:34 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+19:34 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+19:34 [Info] Loaded plugin Kits v3.2.93 by Reneb
+19:34 [Info] Loaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+19:34 [Info] Loaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+19:34 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+19:34 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+19:34 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+19:34 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+19:34 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+19:34 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+19:34 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+19:34 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+19:34 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+19:35 [Warning] Calling 'OnTerrainInitialized' on 'StacksExtended v1.3.6' took 390ms
+19:39 [Info] IP address from Steam query: 0.0.0.0
+19:39 [Warning] The server is currently listed under Community. Please be aware that Facepunch only allows admin tools (that do not affect gameplay) under the Community section
+19:39 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 341ms
+19:39 [Info] [MagicLoot] Loaded 541 item limits from /data/MagicLoot.json
+19:39 [Info] [MagicLoot] Loaded 35 components from /config/MagicLoot.json
+19:39 [Info] [MagicLoot] Loaded at x1 vanilla rate | components rate x1  [Extra Loot: False | X Only Components: False]
+19:39 [Info] [MagicLoot] Repopulated 402 loot containers.
+19:39 [Warning] Calling 'OnServerInitialized' on 'MagicLoot v0.1.24' took 258ms
+19:39 [Info] [SharedDoors] SharedDoors now hooking to Clans
+19:39 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+19:39 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 367ms
+19:39 [Info] [SkinBox] Loaded 126 inbuilt skins
+19:39 [Info] [SkinBox] Plugin has finished importing all skins
+19:42 [Warning] 'Kits v3.2.93' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+19:48 [Warning] [DEBUG] Reload requested for plugin which is already loading: Clans
+19:48 [Error] Error while compiling: Clans.cs(2470,11): error CS1525: Unexpected symbol `end-of-file'
+19:49 [Info] Unloaded plugin MagicLoot v0.1.24 by Norn / Kunazai
+19:50 [Warning] [DEBUG] Load requested for plugin which is already loading: SimpleLoot
+19:50 [Info] SimpleLoot was compiled successfully in 2307ms
+19:50 [Warning] [Simple Loot] Generating new config file...
+19:50 [Warning] [Simple Loot] Added field to config: Settings/Multipliers
+19:50 [Warning] [Simple Loot] Added field to config: Settings/Replace items with blueprints
+19:50 [Warning] [Simple Loot] Repopulating 970 loot containers.
+19:50 [Warning] Calling 'OnServerInitialized' on 'SimpleLoot v1.0.91' took 168ms
+19:50 [Info] Loaded plugin Simple Loot v1.0.91 by MisterPixie
+20:02 [Error] Plugin filename AdminRadar (2).cs must match the main class AdminRadar (should be AdminRadar.cs)
+20:02 [Info] AdminRadar was compiled successfully in 2385ms
+20:02 [Warning] [Admin Radar] Creating a new configuration file
+20:02 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+20:02 [Warning] Covalence command alias already exists: radar
+20:02 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+20:02 [Info] Loaded plugin Admin Radar v5.0.7 by nivex
+20:02 [Info] [Admin Radar] Cached 7965/28122 entities in 2.405937 seconds!
+20:04 [Error] Plugin filename BetterChat (2).cs must match the main class BetterChat (should be BetterChat.cs)
+20:04 [Warning] Ignored unexpected plugin compilation failure: BetterChat (2)
+20:04 [Info] BetterChat was compiled successfully in 2457ms
+20:04 [Info] Loaded plugin Better Chat v5.2.3 by LaserHydra
+20:05 [Error] Timed out waiting for plugin to be compiled: BetterChat (2)
+20:08 [Info] CraftingController was compiled successfully in 2138ms
+20:08 [Warning] [Crafting Controller] New configuration file created.
+20:08 [Info] [Crafting Controller] Configuration file updated.
+20:08 [Info] Loaded plugin Crafting Controller v2.5.6 by Mughisi/nivex/Whispers88
+20:17 [Info] [Better Chat] [Global] [Player] BraveHeart: bizden kimler var lo
+20:32 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+20:32 [Info] Unloaded plugin Blueprint Share v1.1.6 by c_creep
+20:32 [Info] [SharedDoors] SharedDoors now hooking to Clans
+20:32 [Info] Unloaded plugin Clans v2.14.13 by FuJiCuRa
+20:32 [Info] Unloaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+20:32 [Info] Unloaded plugin Furnace Splitter v2.2.2 by FastBurst
+20:32 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+20:32 [Info] Unloaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+20:32 [Info] Unloaded plugin InfoPanel v1.0.1 by Default
+20:32 [Info] Unloaded plugin Kits v3.2.93 by Reneb
+20:32 [Info] Unloaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+20:32 [Info] Unloaded plugin Simple Loot v1.0.91 by MisterPixie
+20:32 [Info] Unloaded plugin Minicopter Seating v1.1.1 by Bazz3l
+20:32 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+20:32 [Info] Unloaded plugin Quick Smelt v5.1.3 by Iv Misticos
+20:32 [Info] Unloaded plugin Recycler Speed v1.0.4 by yetzt
+20:32 [Info] Unloaded plugin SharedDoors v1.0.1 by dbteku
+20:32 [Info] Unloaded plugin SkinBox v1.14.0 by FuJiCuRa
+20:32 [Info] Unloaded plugin StacksExtended v1.3.6 by Fujikura
+20:32 [Info] Unloaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+20:32 [Info] Unloaded plugin Wipe Block v1.0.2 by Orange
+20:32 [Info] Unloaded plugin Admin Radar v5.0.7 by nivex
+20:32 [Info] Unloaded plugin Better Chat v5.2.3 by LaserHydra
+20:32 [Info] Unloaded plugin Crafting Controller v2.5.6 by Mughisi/nivex/Whispers88
+20:33 [Info] Loading Oxide Core v2.0.3984...
+20:33 [Info] Loading extensions...
+20:33 [Info] Loaded extension CSharp v2.0.4027 by Oxide Team and Contributors
+20:33 [Info] Loaded extension MySql v2.0.3758 by Oxide Team and Contributors
+20:33 [Info] Loaded extension Rust v2.0.4589 by Oxide Team and Contributors
+20:33 [Info] Loaded extension SQLite v2.0.3760 by Oxide Team and Contributors
+20:33 [Info] Loaded extension Unity v2.0.3772 by Oxide Team and Contributors
+20:33 [Info] Latest compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:33 [Info] Local compiler MD5: 8ce6d27e7718e3d164766bba8833537a
+20:33 [Info] Using Covalence provider for game 'Rust'
+20:33 [Info] Loading plugins...
+20:33 [Info] Loaded plugin Rust v2.0.4589 by Oxide Team and Contributors
+20:33 [Info] Loaded plugin Unity v2.0.3772 by Oxide Team and Contributors
+20:33 [Info] Added '// Reference: Facepunch.Sqlite' in plugin 'ImageLibrary'
+20:33 [Info] Added '// Reference: UnityEngine.UnityWebRequestModule' in plugin 'ImageLibrary'
+20:33 [Info] AdminRadar, BetterChat, BetterSay, BlueprintShare, Clans, CopyPaste, CraftingController, FurnaceSplitter, GatherManager, ImageLibrary, InfoPanel, Kits, LoadingMessages, MinicopterSeating, NoGiveNotices, QuickSmelt, RecyclerSpeed, SharedDoors, SimpleLoot, SkinBox, StacksExtended, TimeOfDay and WipeBlock were compiled successfully in 0ms
+20:33 [Info] Loaded plugin Admin Radar v5.0.7 by nivex
+20:33 [Info] Loaded plugin Better Chat v5.2.3 by LaserHydra
+20:33 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+20:33 [Info] Loaded plugin Blueprint Share v1.1.6 by c_creep
+20:33 [Info] Loaded plugin Clans v2.14.13 by FuJiCuRa
+20:33 [Info] Loaded plugin Copy Paste v4.1.21 by Reneb & MiRror & Misstake & misticos
+20:33 [Info] Loaded plugin Crafting Controller v2.5.6 by Mughisi/nivex/Whispers88
+20:33 [Info] Loaded plugin Furnace Splitter v2.2.2 by FastBurst
+20:33 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+20:33 [Info] Loaded plugin Image Library v2.0.54 by Absolut & K1lly0u
+20:33 [Info] Loaded plugin InfoPanel v1.0.1 by Default
+20:33 [Info] Loaded plugin Kits v3.2.93 by Reneb
+20:33 [Info] Loaded plugin Loading Messages v1.0.5 by CosaNostra/VVoid
+20:33 [Info] Loaded plugin Minicopter Seating v1.1.1 by Bazz3l
+20:33 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+20:33 [Info] Loaded plugin Quick Smelt v5.1.3 by Iv Misticos
+20:33 [Info] Loaded plugin Recycler Speed v1.0.4 by yetzt
+20:33 [Info] Loaded plugin SharedDoors v1.0.1 by dbteku
+20:33 [Info] Loaded plugin Simple Loot v1.0.91 by MisterPixie
+20:33 [Info] Loaded plugin SkinBox v1.14.0 by FuJiCuRa
+20:33 [Info] Loaded plugin StacksExtended v1.3.6 by Fujikura
+20:33 [Info] Loaded plugin TimeOfDay v2.3.4 by FuJiCuRa
+20:33 [Info] Loaded plugin Wipe Block v1.0.2 by Orange
+20:35 [Warning] Calling 'OnTerrainInitialized' on 'StacksExtended v1.3.6' took 480ms
+20:38 [Info] IP address from Steam query: 0.0.0.0
+20:38 [Warning] The server is currently listed under Community. Please be aware that Facepunch only allows admin tools (that do not affect gameplay) under the Community section
+20:38 [Info] [Clans] Loading clans data
+20:38 [Info] [Clans] Loaded data with '1' valid Clans and overall '3' Members
+20:38 [Info] [Clans] 'forceNametagsOnTagging' is disabled. Clan TAG's might not instant update for sleepers/off-liners
+20:38 [Warning] [Image Library] Waiting for Steamworks to update item definitions....
+20:38 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.1' took 353ms
+20:38 [Info] [SharedDoors] SharedDoors now hooking to Clans
+20:38 [Warning] [Simple Loot] Repopulating 513 loot containers.
+20:38 [Warning] Calling 'OnServerInitialized' on 'SimpleLoot v1.0.91' took 128ms
+20:38 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+20:38 [Warning] Calling 'OnServerInitialized' on 'StacksExtended v1.3.6' took 390ms
+20:38 [Info] [SkinBox] Loaded 126 inbuilt skins
+20:38 [Info] [SkinBox] Plugin has finished importing all skins
+20:38 [Info] [Admin Radar] Cached 5684/17068 entities in 8.443644 seconds!
+20:38 [Warning] [Image Library] Retrieving item skin lists...
+20:38 [Warning] [Image Library] Processing approved skins; Page 1/22
+20:38 [Warning] [Image Library] Processing approved skins; Page 2/22
+20:38 [Warning] [Image Library] Processing approved skins; Page 3/22
+20:38 [Warning] [Image Library] Processing approved skins; Page 4/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 5/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 6/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 7/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 8/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 9/22
+20:39 [Warning] 'Kits v3.2.93' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+20:39 [Warning] [Image Library] Processing approved skins; Page 10/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 11/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 12/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 13/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 14/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 15/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 16/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 17/22
+20:39 [Warning] [Image Library] Processing approved skins; Page 18/22
+20:40 [Warning] [Image Library] Processing approved skins; Page 19/22
+20:40 [Warning] [Image Library] Processing approved skins; Page 20/22
+20:40 [Warning] [Image Library] Processing approved skins; Page 21/22
+20:40 [Warning] [Image Library] Processing approved skins; Page 22/22
+20:40 [Info] [Image Library] Approved skins loaded
+20:42 [Info] GatherManager was compiled successfully in 2277ms
+20:42 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+20:42 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+20:43 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+20:43 [Error] Plugin filename GatherManager (3).cs must match the main class GatherManager (should be GatherManager.cs)
+20:43 [Info] GatherManager was compiled successfully in 296ms
+20:43 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.74' took 128ms
+20:43 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+20:43 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+20:43 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+20:50 [Info] [Better Chat] [Global] DeliiBurak33: birisi tankımı patlatıyor ?,
+20:50 [Info] [Better Chat] [Global] BraveHeart: test servırı şuan
+20:50 [Info] [Better Chat] [Global] BraveHeart: bagları arıyoruz
+20:50 [Info] [Better Chat] [Global] umut1590: testse neden giriyoz amq
+20:50 [Info] [Better Chat] [Global] DeliiBurak33: hammadeler tam 2x degıl
+20:50 [Info] [Better Chat] [Global] BraveHeart: 2 dk ya sıfırlanaçak
+20:50 [Info] [Better Chat] [Global] DeliiBurak33: bılgın
+20:51 [Info] [Better Chat] [Global] BraveHeart: şuan tanks falan sıfırlanaçak
+20:51 [Info] [Better Say] Ares-2x Yetkili: .
+20:51 [Info] [Better Chat] [Global] formula 1 adam: 2 tne enkaz alanı ne?
+20:51 [Info] [Better Chat] [Global] [3T] Maymunun muzu: admin ne zaman wipe yiek
+20:52 [Info] [Better Chat] [Global] [CRRR] ⭕⃤ Wasteland Rebel: haftalık yyiyor
+20:52 [Info] [Better Chat] [Global] BraveHeart: ayn
+20:52 [Info] [Better Chat] [Global] [31] azzklc: a
+20:52 [Info] [Better Chat] [Global] [31] formula 1 adam: beyler
+20:52 [Info] [Better Chat] [Global] [31] formula 1 adam: 2 tane enkaz alanı ne
+20:52 [Info] [Better Chat] [Global] BraveHeart: birazdan
+20:52 [Info] [Better Chat] [Global] BraveHeart: enkazları alaçagız
+20:52 [Info] [Better Chat] [Global] BraveHeart: gelmeyin lütfen
+20:52 [Info] [Better Chat] [Global] [31] formula 1 adam: ee yeni swde
+20:52 [Info] [Better Chat] [Global] [31] formula 1 adam: nası enkaz alanı v ar
+20:53 [Info] [Better Chat] [Global] [31] formula 1 adam: admin yardımı yani
+20:53 [Info] [Better Chat] [Global] BraveHeart: la adminiz sagten
+20:53 [Info] [Better Chat] [Global] BraveHeart: test için girdik şuanb alıp çıkaçagız
+20:53 [Info] [Better Chat] [Global] [31] formula 1 adam: wipe gelcek mı
+20:53 [Info] [Better Chat] [Global] [31] formula 1 adam: sw 1x biliyonuz dımı
+20:54 [Info] [Better Chat] [Global] BraveHeart: la daha yeniyiz neyin kafasındasın
+20:54 [Info] [Better Chat] [Global] [31] formula 1 adam: aga feedback veriyom
+20:54 [Info] BetterSay was compiled successfully in 2135ms
+20:54 [Info] Unloaded plugin Better Say v3.0.0 by LaserHydra
+20:54 [Info] Loaded plugin Better Say v3.0.0 by LaserHydra
+20:54 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: .
+20:54 [Info] [Better Chat] [Global] [31] formula 1 adam: sw yeni mi kuruldu admin bey
+20:56 [Error] Plugin filename Vanish (4).cs must match the main class Vanish (should be Vanish.cs)
+20:56 [Error] Plugin filename Vanish (4).cs must match the main class Vanish (should be Vanish.cs)
+20:56 [Info] Vanish was compiled successfully in 2260ms
+20:56 [Info] Loaded plugin Vanish v1.3.0 by Whispers88
+20:56 [Info] [Better Chat] [Global] umut1590: admin açılacak mi
+20:59 [Info] [Better Chat] [Global] Lincoln BURROWS: sa
+20:59 [Info] [Better Chat] [Global] Lincoln BURROWS: nasıl sw
+20:59 [Info] [Better Chat] [Global] BraveHeart: as
+20:59 [Info] [Better Chat] [Global] [CRRR] poison-of-love: as
+21:00 [Info] [Better Chat] [Global] Lincoln BURROWS: sv yeni mi wipe yedi
+21:00 [Info] [Better Chat] [Global] BraveHeart: ayn
+21:00 [Info] [Better Chat] [Global] Lincoln BURROWS: enkaz alanı var
+21:00 [Info] [Better Chat] [Global] BraveHeart: o problem
+21:00 [Info] [Better Chat] [Global] Lincoln BURROWS: admin mi düşürdü
+21:00 [Info] [Better Chat] [Global] BraveHeart: bagdan patlamış
+21:00 [Info] [Better Chat] [Global] BraveHeart: admin yok sw de
+21:00 [Info] [Better Chat] [Global] Lincoln BURROWS: adamlar düşürdüyse sıkıntı aga
+21:01 [Info] [Better Chat] [Global] BraveHeart: yok bagdan düşmüş
+21:01 [Info] [Better Chat] [Global] Lincoln BURROWS: enkazı alan bitircek oyunu
+21:01 [Info] [Better Chat] [Global] [31] formula 1 adam: adminiz biz düşürdük dedin az önce
+21:01 [Info] [Better Chat] [Global] [31] IceCubeilay: la az önce biz düşürdük dedin
+21:01 [Info] [Better Chat] [Global] debian: sa
+21:01 [Info] [Better Chat] [Global] BraveHeart: ss varmı
+21:01 [Info] [Better Chat] [Global] [31] IceCubeilay: alıp çıkacaz dedin
+21:01 [Info] [Better Chat] [Global] [31] formula 1 adam: ,
+21:01 [Info] [Better Chat] [Global] BraveHeart: sagten
+21:01 [Info] [Better Chat] [Global] Lincoln BURROWS: hanginize güveneyim aq
+21:01 [Info] [Better Chat] [Global] [31] IceCubeilay: bana güven ben 31 ciyim
+21:01 [Info] [Better Chat] [Global] BraveHeart: ben bilmem
+21:01 [Info] Permission 'vanish.use' doesn't exist
+21:02 [Info] [Better Chat] [Global] BraveHeart: :d
+21:02 [Info] [Better Chat] [Global] Lincoln BURROWS: kanka enkaz alanı var yeni wipe sv de
+21:02 [Info] [Better Chat] [Global] Lincoln BURROWS: çok saçma
+21:02 [Info] [Better Chat] [Global] BraveHeart: gel bak havalimanına lot lamaya geldim yoktu
+21:02 [Info] Group 'admin' granted permission 'vanish.allow'
+21:02 [Info] [Better Chat] [Global] BraveHeart: fırlatmaya
+21:02 [Info] Group 'admin' granted permission 'vanish.unlock'
+21:02 [Info] Group 'admin' granted permission 'vanish.damage'
+21:02 [Info] [Better Chat] [Global] Lincoln BURROWS: gitti enkaz alanı
+21:03 [Info] Group 'admin' granted permission 'adminradar.allowed'
+21:04 [Info] Group 'admin' granted permission 'bettersay.use'
+21:04 [Error] Could not load plugin 'Gather' (no plugin found with that file name)
+21:04 [Error] Could not load plugin 'Manager' (no plugin found with that file name)
+21:04 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+21:04 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+21:04 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+21:04 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+21:04 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: .
+21:05 [Info] [Better Chat] [Global] Mehmed-i Ala: sa
+21:05 [Info] [Better Chat] [Global] [ARES] BarBars: as
+21:06 [Info] [Better Chat] [Global] Lincoln BURROWS: yetkili
+21:06 [Info] [Better Chat] [Global] Lincoln BURROWS: 2 enkaz alanı vardı
+21:06 [Info] [Better Chat] [Global] Lincoln BURROWS: az önce
+21:06 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+21:06 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+21:06 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: teknik bir aksaklıktan dolayı oldu düzelttik iyi oyunlar
+21:07 [Info] [Better Chat] [Global] [31] formula 1 adam: düzelttiniz mi
+21:07 [Info] [Better Chat] [Global] [31] formula 1 adam: lootlanmıştı kanki
+21:07 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: evet
+21:07 [Info] [Better Chat] [Global] [31] formula 1 adam: ee
+21:07 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+21:07 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+21:07 [Info] [Better Chat] [Global] [31] formula 1 adam: adamlar lootlamıs
+21:07 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+21:07 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+21:08 [Info] Unloaded plugin Gather Manager v2.2.74 by Ryan
+21:08 [Info] Loaded plugin Gather Manager v2.2.74 by Ryan
+21:09 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: Tekrar ediyorum teknik bir aksaklık oldu.Düzelttik şuan hiçbir sıkıntı yok.Herkese iyi oyunlar.
+21:09 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: hayır biz lootları remove ledik kimse alamadı
+21:10 [Info] [Better Chat] [Global] Lincoln BURROWS: teşekkürler
+21:10 [Info] [Better Chat] [Global] [31] formula 1 adam: adamsın admın
+21:10 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: önemli deyil iyi oyunlar
+21:10 [Info] [Better Chat] [Global] [31] formula 1 adam: sw yeni mi admin
+21:10 [Info] [Better Chat] [Global] [31] formula 1 adam: yeni mi kurdunuz yanı
+21:10 [Info] [Better Chat] [Global] Ninja: sa
+21:11 [Info] [Better Chat] [Global] [CRRR] ⭕⃤ Wasteland Rebel: as
+21:12 [Info] [Better Chat] [Global] Ninja: sunucu nasıl beyler
+21:12 [Info] [Better Chat] [Global] debian: güzelş
+21:12 [Info] [Better Chat] [Global] [31] formula 1 adam: sağlam
+21:13 [Info] [Better Chat] [Global] debian: asdasd
+21:13 [Info] [Better Chat] [Global] [ARES] BarBars: sunucu başarılı
+21:13 [Info] [Better Chat] [Global] Lincoln BURROWS: +1
+21:13 [Info] [Better Chat] [Global] poison-of-love: +1
+21:13 [Info] [Better Chat] [Global] Ninja: +111111111111111111111111111
+21:13 [Info] [Better Chat] [Global] [31] formula 1 adam: admin sw yeniyse hayırlı olsun kardes
+21:13 [Info] [Better Chat] [Global] [31] formula 1 adam: cevap vermedın ama adamsın
+21:13 [Info] [Better Chat] [Global] [31] formula 1 adam: +11111
+21:15 [Info] [Better Chat] [Global] Ninja: BEYLER ARK LARINIZ VARSA ÇAGARIN DA EÇİK PVP DÖNSÜN LA
+21:16 [Info] [Better Chat] [Global] Lincoln BURROWS: çağırdım ben
+21:16 [Info] [Better Chat] [Global] Ninja: İYİ İYİ
+21:18 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: https://discord.gg/bP22B3 discord sunucumuza gelmeyi unutmayın.
+21:20 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: 1-Küfürün her türlüsü yasaktır 2-Macro ve hile yasaktır.(Yapan kişi direkt banlanır!) 3-Kışkırtma yasaktır. 4-Siyaset,din,dil,ırk sohbeti yapmak yasaktır. 5-İttifak yasaktır.(Yapan kişi direkt banlanır!) 6-Admine hakaret yasaktır.(Yapan dişi direkt banlanır!) 7-Takım sınırı 5 kişidir.(Takım sınırını aşanlar direkt banlanır!) 8-Reklam kesinlikle yasaktır.(Yapan kişi direkt banlanır!)
+21:20 [Info] [Better Chat] [Global] [31] formula 1 adam: diğer swde senin reklamını yapak mı admın
+21:20 [Info] [Better Chat] [Global] [31] formula 1 adam: o olur mu
+21:20 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: ben yaparım
+21:21 [Info] [Better Chat] [Global] Ninja: bençe yapın beyler
+21:25 [Warning] [DEBUG] Load requested for plugin which is already loading: ObjectRemover
+21:25 [Info] ObjectRemover was compiled successfully in 2230ms
+21:25 [Info] Loaded plugin Object Remover v3.0.5 by Iv Misticos
+21:25 [Info] Group 'admin' granted permission 'objectremover.use'
+21:26 [Info] Group 'admin' granted permission 'objectremover.statistics'
+21:26 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: https://discord.gg/bP22B3 herhangi bir şikayetiniz olursa discord adresimize gelebilirsiniz
+21:28 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: sv artıyor
+21:28 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: https://discord.gg/bP22B3 herhangi bir şikayetiniz olursa discord adresimize gelebilirsiniz.
+21:30 [Info] [Better Chat] [Global] ⭕⃤ Wasteland Rebel: silah bulabildinizmi
+21:30 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: yay var
+21:31 [Info] [Better Chat] [Global] Ninja: sasdadasdsadasda
+21:31 [Info] [Better Chat] [Global] [31] formula 1 adam: ak satılık
+21:31 [Info] [Better Chat] [Global] Ninja: oha
+21:31 [Info] [Better Chat] [Global] [31] formula 1 adam: kiralık pardon
+21:31 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: kaç k
+21:31 [Info] [Better Chat] [Global] [31] formula 1 adam: 1 tur elletilir
+21:31 [Info] [Better Chat] [Global] Ninja: asdasdas
+21:31 [Info] [Better Chat] [Global] poison-of-love: sadsad
+21:31 [Info] [Better Chat] [Global] Ninja: asdasdsadsadsadsa d
+21:31 [Info] [Better Chat] [Global] ⭕⃤ Wasteland Rebel: sv dolarmı
+21:31 [Info] [Better Chat] [Global] Ninja: bençe dolar
+21:31 [Info] [Better Chat] [Global] [31] formula 1 adam: doluyor kanka yavaştan
+21:31 [Info] [Better Chat] [Global] poison-of-love: güzel sv adminler iyi
+21:31 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: dolar ben reklam yapıcam
+21:31 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: başka sv lere girip ip spamlayın
+21:31 [Info] [Better Chat] [Global] [31] formula 1 adam: 1 2 swde adını duyuruyoz da daha gelen yok
+21:31 [Info] [Better Chat] [Global] Ninja: asdasdas
+21:32 [Info] [Better Chat] [Global] [31] formula 1 adam: belki vardır söylemıyodur bılemem
+21:36 [Info] [Better Chat] [Global] P4NTER: sa
+21:36 [Info] [Better Chat] [Global] [31] IceCubeilay: as
+21:36 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: as
+21:36 [Info] [Better Chat] [Global] [ARES] BarBars: as
+21:41 [Error] Failed to call hook 'CanUseLockedEntity' on plugin 'SharedDoors v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.SharedDoors+RustIOHandler.IsFriend (System.String playerId, System.String playerDoorOwner) [0x00006] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors+DoorAuthorizer.CanOpenCodeLock (CodeLock door, BasePlayer player) [0x00096] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors+DoorAuthorizer.CanOpen () [0x00036] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors.CanUseLockedEntity (BasePlayer player, BaseLock door) [0x00088] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00261] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <8a646463979e4a1d9c0e2f1298e9483f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <953329caf7d943cc9eca5c8b4b890c98>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <953329caf7d943cc9eca5c8b4b890c98>:0 
+21:43 [Info] [Better Chat] [Global] [31] formula 1 adam: qweaadlşfiöadfkşlöaf
+21:43 [Info] [Better Chat] [Global] [31] formula 1 adam: server kuralı aga
+21:43 [Info] [Better Chat] [Global] [31] formula 1 adam: acınacak hale düşmeyin için acımayın diyo
+21:43 [Info] [Better Chat] [Global] [31] formula 1 adam: yapcak bişi yok
+21:43 [Info] [Better Chat] [Global] TrueDovah: çok mu ping var ya
+21:43 [Info] [Better Chat] [Global] Ninja: asdasds a
+21:43 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: 0 ping
+21:43 [Info] [Better Chat] [Global] [31] formula 1 adam: bende ping yok
+21:43 [Info] [Better Chat] [Global] Ninja: oha
+21:43 [Info] [Better Chat] [Global] TrueDovah: bende de yok aslında ama sürekli laglanıyorum
+21:43 [Info] [Better Chat] [Global] poison-of-love: ya beni neden öldurdunuz formula
+21:43 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: sv kuralı knk
+21:44 [Info] [Better Chat] [Global] poison-of-love: aga b
+21:45 [Warning] 'Kits v3.2.93' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+21:53 [Info] [Better Chat] [Global] [ARES] BarBars: sa
+21:53 [Info] [Better Chat] [Global] poison-of-love: as
+21:54 [Info] Unloaded plugin Object Remover v3.0.5 by Iv Misticos
+21:54 [Warning] Calling hook CanUseLockedEntity resulted in a conflict between the following plugins: SharedDoors - False (Boolean), Vanish (True (Boolean))
+21:54 [Warning] Calling hook CanUseLockedEntity resulted in a conflict between the following plugins: SharedDoors - False (Boolean), Vanish (True (Boolean))
+21:54 [Info] RemoverTool was compiled successfully in 2294ms
+21:54 [Warning] [Remover Tool] Creating a new configuration file
+21:54 [Info] Loaded plugin Remover Tool v4.3.14 by Reneb/Fuji/Arainrr
+21:54 [Info] Group 'admin' granted permission 'removertool.all'
+21:55 [Info] Group 'admin' granted permission 'removertool.admin'
+21:55 [Info] Group 'admin' granted permission 'removertool.structure'
+21:55 [Info] Group 'admin' granted permission 'removertool.override'
+22:00 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: https://discord.gg/bP22B3 Discord sunucumuza gelebilirsiniz.
+22:12 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: agerewgkg
+22:13 [Info] [Better Chat] [Global] Ninja: sa
+22:14 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: https://discord.gg/bP22B3 Discord sunucumuza gelebilirsiniz.
+22:14 [Info] [Better Chat] [Global] KIRMIZI ŞORTLİİ: as
+22:14 [Info] [Better Chat] [Global] madox: AS
+22:14 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: https://discord.gg/bP22B3 Discord sunucumuza gelebilirsiniz.
+22:14 [Info] [Better Chat] [Global] Ninja: vanish
+22:14 [Info] [Better Chat] [Global] [31] IceCubeilay: :DD
+22:15 [Info] [Better Chat] [Global] madox: kubii napıyon kubii
+22:15 [Info] [Better Chat] [Global] [31] IceCubeilay: aynı kankiiiiii sen nabıyon
+22:15 [Info] [Better Chat] [Global] Ninja: iyi oyunlar beyler
+22:15 [Info] [Better Chat] [Global] [31] formula 1 adam: MADOXXX
+22:15 [Info] [Better Chat] [Global] [31] formula 1 adam: nabı10
+22:15 [Info] [Better Chat] [Global] madox: lannn napıyonmuzzz
+22:16 [Info] [Better Chat] [Global] [31] IceCubeilay: madoooxxx konum ver raidleyek knk :D
+22:16 [Info] [Better Chat] [Global] [31] IceCubeilay: alışkınsındır
+22:16 [Info] [Better Chat] [Global] madox: yok aga
+22:16 [Info] [Better Chat] [Global] madox: tekim zaten
+22:16 [Info] [Better Chat] [Global] KIRMIZI ŞORTLİİ: rais aysagi guzel ya
+22:17 [Info] [Better Chat] [Global] KIRMIZI ŞORTLİİ: yasagi
+22:17 [Info] [Better Chat] [Global] madox: yasak var mi su an
+22:17 [Info] [Better Chat] [Global] KIRMIZI ŞORTLİİ: eed
+22:17 [Info] [Better Chat] [Global] Ninja: ne yasagı
+22:17 [Info] [Better Chat] [Global] madox: svde 12 kişi var ne yasağı ya
+22:22 [Info] [Better Chat] [Global] ⭕⃤ Wasteland Rebel: ./removeadmin
+22:26 [Info] [Better Chat] [Global] [ARES] BarBars: sa
+22:26 [Info] [Better Chat] [Global] poison-of-love: as
+22:26 [Info] [Better Chat] [Global] [ARES] BarBars: oil almaya gidiyorum
+22:26 [Info] [Better Chat] [Global] [ARES] BarBars: var mı gelen
+22:27 [Info] [Better Chat] [Global] [31] formula 1 adam: sen admin deil misin
+22:27 [Info] [Better Chat] [Global] poison-of-love: yok o klan
+22:27 [Info] [Better Chat] [Global] [ARES] BarBars: değilim
+22:27 [Info] [Better Chat] [Global] [31] formula 1 adam: oki
+22:30 [Info] [Better Chat] [Global] TrueDovah: hey
+22:30 [Info] [Better Chat] [Global] TrueDovah: türküm aga
+22:31 [Info] [Better Chat] [Global] TrueDovah: nasıl yarın atılıyor ya
+22:31 [Info] [Better Chat] [Global] TrueDovah: yeni atılmadı mı
+22:31 [Info] [Better Chat] [Global] TrueDovah: tamamdır
+22:31 [Info] [Better Chat] [Global] TrueDovah: aynen
+22:32 [Info] [Better Chat] [Global] TrueDovah: eyvallah
+22:32 [Info] [Better Chat] [Global] TrueDovah: ya
+22:35 [Info] [Better Chat] [Global] Ninja: ayn
+22:36 [Info] [Better Chat] [Global] Ninja: :D ASDDASDASD
+22:37 [Info] [Better Chat] [Global] Ninja: DIŞARI Bİ ÇIKIN
+22:37 [Info] [Better Chat] [Global] Ninja: beyler bi dışarı çıkın
+22:40 [Info] [Better Chat] [Global] [31] formula 1 adam: oillerin ikiside yok
+22:41 [Info] [Better Chat] [Global] [31] formula 1 adam: aga
+22:41 [Info] [Better Chat] [Global] [31] formula 1 adam: heliyi sal
+22:41 [Info] [Better Chat] [Global] [31] formula 1 adam: lmadşfmkfamflmqer
+22:41 [Info] [Better Chat] [Global] Ninja: gel
+22:41 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: değerli oyuncular sunucu yeni wipe yediği için sunucunu kitlileri yenilenmedi
+22:42 [Info] [Better Chat] [Global] [31] IceCubeilay: gaçaman gurtulaman assanım
+22:42 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: değerli oyuncular sunucu yeni wipe yediği için sunucunu kitlileri yenilenmedi
+22:42 [Info] [Better Chat] [Global] [31] formula 1 adam: ne zaman gelir reis
+22:42 [Info] [Better Chat] [Global] [31] formula 1 adam: hiç mi gelmez
+22:42 [Info] [Better Chat] [Global] [31] formula 1 adam: az önce vardı yani
+22:42 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: 5- dk ye gelir10
+22:43 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: sıkıntı yok
+22:43 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: eyv
+22:43 [Info] [Better Chat] [Global] [31] formula 1 adam: oki eyv
+22:51 [Info] [Better Chat] [Global] madox: kubi nerdesiniz
+22:51 [Info] [Better Chat] [Global] madox: yarı oto vereyim size çıkıyorm yarın wipelanacakmış
+22:51 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: x23
+22:52 [Info] [Better Chat] [Global] [31] IceCubeilay: gel oile
+22:52 [Info] [Better Chat] [Global] [31] formula 1 adam: xD
+22:52 [Info] [Better Chat] [Global] madox: benzin yk
+22:53 [Info] [Better Chat] [Global] [31] azzklc: 5DK DOLMADI MI KNk hala çıkmadı küçük oil
+22:53 [Info] [Better Chat] [Global] madox: evim k13te içinde yarı oto iskoç fln var
+22:53 [Info] [Better Chat] [Global] madox: kg
+22:53 [Info] [Better Chat] [Global] [31] formula 1 adam: madox
+22:53 [Info] [Better Chat] [Global] [31] formula 1 adam: yarın gelicen mi
+22:53 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: wipe de herkesi bekleriz
+22:53 [Info] [Better Chat] [Global] madox: erken wipelanacakmış uyuyo olurum kank
+22:53 [Info] [Better Chat] [Global] [31] IceCubeilay: yarı oto nerden çıktı la madox
+22:53 [Info] [Better Chat] [Global] [31] formula 1 adam: valla mı la
+22:53 [Info] [Better Chat] [Global] [31] formula 1 adam: gelirsen
+22:53 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: gel gel oynayak
+22:53 [Info] [Better Chat] [Global] [31] formula 1 adam: güzel olur
+22:53 [Info] [Better Chat] [Global] Ninja: alamı lan pipi ni
+22:53 [Info] [Better Chat] [Global] [31] formula 1 adam: sağlam oynuyon
+22:54 [Info] [Better Chat] [Global] madox: bana target alıyorsunuz ayıp oluyor
+22:54 [Info] [Better Chat] [Global] [31] formula 1 adam: :/
+22:54 [Info] [Better Chat] [Global] [31] IceCubeilay: :(
+22:54 [Info] [Better Chat] [Global] madox: k13te gelin bi heliniz varsa
+22:54 [Info] [Better Chat] [Global] [31] formula 1 adam: oilden dönüoz knk chesti cıkmıyo
+22:54 [Info] [Better Chat] [Global] madox: küreden lootladım bu arada otoyu
+22:55 [Info] [Better Chat] [Global] [31] formula 1 adam: off
+22:55 [Info] [Better Chat] [Global] madox: nerdesiniz geleyim
+22:56 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: bugün açtığımız serveri deneme amaçlı açtık kusura bakmayın
+22:56 [Info] [Better Chat] [Global] Ninja: bekleyin
+22:56 [Info] [Better Chat] [Global] [31] formula 1 adam: kanki üstümüz dolu
+22:56 [Info] [Better Chat] [Global] [31] formula 1 adam: gelcez
+22:56 [Info] [Better Chat] [Global] Ninja: ok
+22:57 [Info] [Better Chat] [Global] [31] formula 1 adam: büyük oil denicez
+22:57 [Info] [Better Chat] [Global] [31] IceCubeilay: madox
+22:57 [Info] [Better Chat] [Global] [31] formula 1 adam: bu cıkmıyor
+22:57 [Info] [Better Chat] [Global] Ninja: aaa
+22:57 [Info] [Better Chat] [Global] [31] IceCubeilay: geliyom k13 e
+22:57 [Info] [Better Chat] [Global] Ninja: gemi gideçekler
+22:57 [Info] [Better Chat] [Global] madox: gel
+22:57 [Info] [Better Chat] [Global] madox: j13
+22:57 [Info] [Better Chat] [Global] [31] formula 1 adam: gemi var
+22:57 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: bugün açtığımız serveri deneme amaçlı açtık kusura bakmayın
+22:57 [Info] [Better Chat] [Global] [31] formula 1 adam: sorun yok admin adamsın
+22:57 [Info] [Better Chat] [Global] madox: gemiyi sal kitli sandık var
+22:57 [Info] [Better Chat] [Global] [31] formula 1 adam: ws mı dıyon
+22:57 [Info] [Better Chat] [Global] [31] formula 1 adam: anlamadım :d
+22:57 [Info] [Better Chat] [Global] madox: yok lan
+22:57 [Info] [Better Chat] [Global] madox: item vercem
+22:58 [Info] [Better Chat] [Global] [31] formula 1 adam: k13 e geliyoz işte
+22:58 [Info] [Better Chat] [Global] [31] formula 1 adam: seni gördüydük zaten
+22:58 [Info] [Better Chat] [Global] madox: j13
+22:58 [Info] [Better Chat] [Global] [31] formula 1 adam: geldik xD
+23:05 [Info] [Better Chat] [Global] Ninja: nerdesiniz
+23:05 [Info] [Better Chat] [Global] [31] formula 1 adam: gelioz
+23:05 [Info] [Better Chat] [Global] Ninja: nereye
+23:05 [Info] [Better Chat] [Global] [31] formula 1 adam: gemi yapcaz ama gerci xD
+23:05 [Info] [Better Chat] [Global] Ninja: asdsada
+23:10 [Warning] 'Kits v3.2.93' is using deprecated hook 'OnPlayerInit', which will stop working on Monday, 01 June 2020. Please ask the author to update to 'OnPlayerConnected(BasePlayer player)'
+23:10 [Info] [Better Chat] [Global] SaL1n4-™: всем привет
+23:10 [Info] [Better Chat] [Global] Ninja: iyi
+23:10 [Info] [Better Chat] [Global] SaL1n4-™: русский::?
+23:11 [Info] [Better Chat] [Global] SaL1n4-™: людиииии
+23:12 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: speak english
+23:12 [Info] [Better Chat] [Global] SaL1n4-™: max?
+23:12 [Info] [Better Chat] [Global] Ninja: 5
+23:12 [Info] [Better Chat] [Global] [31] formula 1 adam: 5
+23:12 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: 5
+23:12 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: max 5
+23:15 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: bulduk ak mizi
+23:20 [Info] [Better Chat] [Global] [31] Lincoln BURROWS: keleşe yazık olcak yarın
+23:20 [Info] [Better Chat] [Global] [31] formula 1 adam: kele$
+23:22 [Info] [Better Chat] [Global] Typs7: SA
+23:22 [Info] [Better Chat] [Global] PlutoN: sa
+23:22 [Info] [Better Chat] [Global] [31] azzklc: as
+23:22 [Info] [Better Chat] [Global] BarBars: as
+23:26 [Info] [Better Chat] [Global] [BBY] PlutoN: .
+23:26 [Info] [Better Chat] [Global] [BBY] Typs7: s
+23:32 [Info] [Better Chat] [Global] Ninja: sa
+23:32 [Info] [Better Chat] [Global] Ninja: radar
+23:33 [Info] [Better Chat] [Global] Ninja: beyler
+23:33 [Info] [Better Chat] [Global] [BBY] Typs7: NE
+23:36 [Info] [Better Chat] [Global] Ninja: ne oluyo
+23:37 [Info] [Better Chat] [Global] Ninja: at olnarı lütfen
+23:37 [Info] [Better Chat] [Global] SaL1n4-™: wipe ?
+23:37 [Info] [Better Chat] [Global] [BBY] PlutoN: 2 saat
+23:37 [Info] [Better Chat] [Global] Ninja: yarin birdaha wipe yiyeçek
+23:37 [Info] [Better Chat] [Global] [BBY] Typs7: NIYE AQ
+23:37 [Info] [Better Chat] [Global] Ninja: halla halla
+23:37 [Info] [Better Chat] [Global] Ninja: Payton Da
+23:38 [Info] [Better Chat] [Global] [BBY] Typs7: OLUM YARIN WİPE MI GELCEWK AQ
+23:38 [Info] [Better Chat] [Global] Ninja: bekel
+23:38 [Info] [Better Chat] [Global] Ninja: konturol ediyorum
+23:38 [Info] [Better Chat] [Global] [BBY] PlutoN: 2 saat önce vipe yemiş
+23:38 [Info] [Better Chat] [Global] [31] azzklc: KNK BAk lootları görüyon yarın aynılarını isteriz
+23:38 [Info] [Better Chat] [Global] [BBY] Typs7: SW YUZDE 90 DOLUCAK
+23:38 [Info] [Better Chat] [Global] [BBY] Typs7: AGA BIZD
+23:38 [Info] [Better Chat] [Global] Ninja: ooo
+23:38 [Info] [Better Chat] [Global] [BBY] Typs7: atma ya
+23:39 [Info] [Better Chat] [Global] [BBY] PlutoN: admin
+23:39 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: efendim
+23:39 [Info] [Better Chat] [Global] [BBY] PlutoN: yarın wipemı var
+23:39 [Info] [Better Chat] [Global] [BBY] Typs7: yarın wipe mı atıcaskın atma ya
+23:40 [Info] [Better Chat] [Global] [BBY] Typs7: sabah dolar bura
+23:40 [Info] [Better Chat] [Global] SteelElon: dolar bu arada
+23:40 [Info] [Better Chat] [Global] Hal3rada: what ?
+23:41 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: yarın wipe atılacaktır 13.30-16.00 arası olacak dc adresimizden haber verilicekktir dc adresine katılmayı unutmayın
+23:41 [Info] [Better Chat] [Global] [BBY] PlutoN: başkan atma ya
+23:41 [Info] [Better Chat] [Global] [BBY] PlutoN: o kadar boşamı kastık
+23:41 [Info] [Better Chat] [Global] [BBY] PlutoN: 2 saat önce wipe
+23:41 [Info] [Better Chat] [Global] [BBY] PlutoN: yemiş
+23:41 [Info] [Better Chat] [Global] [BBY] PlutoN: atmasaydın bari 2 saat öncede
+23:41 [Info] [Better Chat] [Global] [BBY] PlutoN: gelip kasmazdık
+23:42 [Info] [Better Chat] [Global] [31] formula 1 adam: kardeşim
+23:42 [Info] [Better Chat] [Global] [31] formula 1 adam: deneme yapmak icin actılar serverı adamlar 2 saattir yazıyor
+23:42 [Info] [Better Chat] [Global] [BBY] Typs7: gormedık aq
+23:42 [Info] [Better Chat] [Global] [BBY] Typs7: yenı gırdık
+23:42 [Info] [Better Chat] [Global] [31] formula 1 adam: o zaman o kadar boşa mı kastık diye tribe girme
+23:42 [Info] [Better Chat] [Global] [31] IceCubeilay: e taam yeni girdiysen 2x sv zaten
+23:42 [Info] [Better Chat] [Global] [31] formula 1 adam: bizde kastık
+23:42 [Info] [Better Chat] [Global] [31] IceCubeilay: ne ksamış olabilrisin
+23:42 [Info] [Better Chat] [Global] [31] formula 1 adam: ak full hq set yaptık
+23:42 [Info] [Better Chat] [Global] [BBY] Typs7: 1k hurda
+23:42 [Info] [Better Chat] [Global] [BBY] Typs7: sechle
+23:43 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: /say Merhaba Beyler Önçelikle Bu Bir Deneme Günü Geçti Yarin Asıl Wipe Yiyeçek Çok Fazla İtem Kasanlar Yarısı Geri Verileçek Haberiniz Ola Yarin Bu Kitleyi İstiyoruz Tekrar Yarin Sunucu Dolar İnşallah İyi Oyunlar
+23:43 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: dc linkimiz https://discord.gg/3gusrj
+23:43 [Error] Failed to call hook 'CanUseLockedEntity' on plugin 'SharedDoors v1.0.1' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.SharedDoors+RustIOHandler.IsFriend (System.String playerId, System.String playerDoorOwner) [0x00006] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors+DoorAuthorizer.CanOpenCodeLock (CodeLock door, BasePlayer player) [0x00096] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors+DoorAuthorizer.CanOpen () [0x00036] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors.CanUseLockedEntity (BasePlayer player, BaseLock door) [0x00088] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.SharedDoors.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00261] in <b6d48d8807304595b1c2daf1ef04b8cd>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <8a646463979e4a1d9c0e2f1298e9483f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <953329caf7d943cc9eca5c8b4b890c98>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <953329caf7d943cc9eca5c8b4b890c98>:0 
+23:43 [Info] [Better Chat] [Global] [31] IceCubeilay: evini söyle gelip c4 atalım askldjasldja
+23:43 [Info] [Better Chat] [Global] SteelElon: eyw admin
+23:43 [Info] [Better Chat] [Global] [BBY] Typs7: komıkmısın
+23:44 [Info] [Better Chat] [Global] [31] IceCubeilay: komik olduğunu düşünüyosan kordi ver .d
+23:44 [Info] [Better Chat] [Global] SteelElon: 10 dk once gırdık ne kordıtanı
+23:45 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: Beyler Çok Fazla İtem Kasanlara 20K Taş Ve 1 Tane Silah Herkezin Lot Larına Bakaçagız
+23:45 [Info] [Better Chat] [Global] [BBY] Typs7: tamam
+23:46 [Info] [Better Chat] [Global] [BBY] SteelElon: .D
+23:46 [Info] [Better Chat] [Global] Ninja: sizin lot lara bakam
+23:46 [Info] [Better Chat] [Global] Ninja: yarin ona göre silah verileçek
+23:46 [Info] [Better Say] <color=#ff0000>Ares  2X</color> <color=#1eff00>|</color> <color=#00f6ff>Yetkili</color>: düzeltme haksızlık olmayacak şekilde başlangıç itemleri olacak arkadaş yanlış yazdı
+23:53 [Info] [Better Chat] [Global] Ninja: asdasdas
+23:53 [Info] [Better Chat] [Global] [31] IceCubeilay: la yatapım kırılmış
+23:53 [Info] [Better Chat] [Global] [31] IceCubeilay: ajdasdjasd
+23:54 [Info] [Better Chat] [Global] Ninja: asdasdsa
+23:54 [Info] [Better Chat] [Global] [31] IceCubeilay: yarın görüşmek üzere beylr
+23:54 [Info] [Better Chat] [Global] Ninja: alalha emanet kral

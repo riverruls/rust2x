@@ -1,0 +1,16 @@
+{
+  "Prefix": "<color=#D85540>[Blueprint Share] </color>",
+  "ArgumentsError": "Error, incorrect arguments. Try /bs help.",
+  "Help": "<color=#D85540>Blueprint Share Help:</color>\n\n<color=#D85540>/bs toggle</color> - Toggles the sharing of blueprints.\n<color=#D85540>/bs share <player></color> - Shares your blueprints with other player.",
+  "ToggleOn": "You have enabled sharing blueprints.",
+  "ToggleOff": "You have disabled sharing blueprints.",
+  "NoPermission": "You don't have permission to use this command!",
+  "CannotShare": "You cannot share blueprints with this player because they aren't a friend or in the same clan or team!",
+  "NoTarget": "You didn't specifiy a player to share with!",
+  "TargetEqualsPlayer": "You cannot share blueprints with your self!",
+  "PlayerNotFound": "Couldn't find a player with that name!",
+  "MultiplePlayersFound": "Found multiple players with a similar name: {0}",
+  "ShareSuccess": "You shared {0} blueprints with {1}.",
+  "ShareFailure": "You don't have any new blueprints to share with {0}",
+  "ShareReceieve": "{0} has shared {1} blueprints with you."
+}

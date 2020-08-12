@@ -1,0 +1,10 @@
+{
+  "No Rights": "You do not have enough rights",
+  "Count": "We found {count} entities in {time}s.",
+  "Removed": "You have removed {count} entities in {time}s.",
+  "Help": "Object command usage:\n/object (entity) [parameters]\nParameters:\naction count/remove - Count or remove entities\nradius NUM - Radius\ninside true/false - Entities inside the cupboard\noutside true/false - Entities outside the cupboard",
+  "No Console": "Please log in as a player to use that command",
+  "Statistics Header": "Objects Statistics:",
+  "Statistics Entry": "\n#{position} - {shortname} x {count}",
+  "Statistics Footer": "\nDone."
+}

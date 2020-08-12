@@ -1,0 +1,23 @@
+{
+  "Settings": {
+    "Multipliers": {
+      "fuse": 2,
+      "gears": 2,
+      "metalblade": 2,
+      "metalpipe": 2,
+      "metalspring": 2,
+      "propanetank": 2,
+      "riflebody": 2,
+      "roadsigns": 2,
+      "rope": 2,
+      "scrap": 2,
+      "semibody": 2,
+      "sewingkit": 2,
+      "sheetmetal": 2,
+      "smgbody": 2,
+      "tarp": 2,
+      "techparts": 2
+    },
+    "Replace items with blueprints": false
+  }
+}

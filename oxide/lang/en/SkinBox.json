@@ -1,0 +1,8 @@
+{
+  "NoPermission": "You don't have permission to use the SkinBox",
+  "ToNearPlayer": "The SkinBox is currently not usable at this place",
+  "CooldownTime": "You need to wait {0} seconds to re-open the SkinBox again",
+  "NotEnoughBalanceOpen": "You need at least '{0}' bucks to open the SkinBox",
+  "NotEnoughBalanceUse": "You would need at least '{0}' bucks to skin '{1}'",
+  "NotEnoughBalanceTake": "'{0}' was not skinned. You had not enough bucks"
+}
